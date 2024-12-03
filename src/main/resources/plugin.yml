@@ -1,0 +1,4 @@
+name: RIA_SystemLog
+version: '${version}'
+main: com.racoboss.ria_systemlog.Activity.BukkitMain
+api-version: '1.21'
